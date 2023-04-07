@@ -1,7 +1,7 @@
 {
   "domain": "blink-uli",
   "name": "Blink2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "codeowners": ["@ulimartinez"],
   "config_flow": true,
   "dhcp": [
