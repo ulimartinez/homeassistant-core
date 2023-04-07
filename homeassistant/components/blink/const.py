@@ -1,7 +1,7 @@
 """Constants for Blink."""
 from homeassistant.const import Platform
 
-DOMAIN = "blink"
+DOMAIN = "blink-uli"
 DEVICE_ID = "Home Assistant"
 
 CONF_MIGRATE = "migrate"

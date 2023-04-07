@@ -1,7 +1,8 @@
 {
-  "domain": "blink",
-  "name": "Blink",
-  "codeowners": ["@fronzbot"],
+  "domain": "blinki-uli",
+  "name": "Blink2",
+  "version": "1.0.0",
+  "codeowners": ["@ulimartinez"],
   "config_flow": true,
   "dhcp": [
     {
