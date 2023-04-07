@@ -9,7 +9,7 @@ trigger_camera:
   description: Request camera to take new image.
   target:
     entity:
-      integration: blink
+      integration: blink-uli
       domain: camera
 
 save_video:
