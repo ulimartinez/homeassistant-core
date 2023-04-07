@@ -95,3 +95,6 @@ class BlinkCamera(Camera):
         except TypeError:
             _LOGGER.debug("No cached image for %s", self._camera.name)
             return None
+        except AttributeError:
+            _LOGGER.error("Could not get the cache for %s", self._camera.name)
+                
